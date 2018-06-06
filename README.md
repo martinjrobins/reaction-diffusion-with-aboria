@@ -24,8 +24,7 @@ Installation
 First clone this repository:
 
 ``` {.bash}
-$ git clone --recurse-submodules
-https://github.com/martinjrobins/reaction-diffusion-with-aboria
+$ git clone --recurse-submodules https://github.com/martinjrobins/reaction-diffusion-with-aboria
 ```
 
 Then create a build directory `build` under the main source directory:
