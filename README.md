@@ -21,10 +21,17 @@ $ sudo apt install build-essential libboost-all-dev cmake
 Installation
 ------------
 
-First create a build directory `build` under the main source directory:
+First clone this repository:
 
 ``` {.bash}
-$ cd /path/to/repo
+$ git clone --recurse-submodules
+https://github.com/martinjrobins/reaction-diffusion-with-aboria
+```
+
+Then create a build directory `build` under the main source directory:
+
+``` {.bash}
+$ cd reaction-diffusion-with-aboria
 $ mkdir build
 $ cd build
 ```
