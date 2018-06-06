@@ -1,5 +1,5 @@
 About
-=====
+-----
 
 This is the supplementary code repository for the paper:
 
@@ -8,7 +8,7 @@ reaction-diffusion processes with Aboria: Application to a heterogeneous
 population of cells with chemotaxis and volume exclusion"
 
 Pre-requisites
-==============
+--------------
 
 Requires a C++ compiler which supports C++14, Boost v1.65 and CMake v2.8.
 
@@ -19,7 +19,7 @@ $ sudo apt install build-essential libboost-all-dev cmake
 ```
 
 Installation
-============
+------------
 
 First create a build directory `build` under the main source directory:
 
