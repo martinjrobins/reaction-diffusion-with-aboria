@@ -10,12 +10,12 @@ population of cells with chemotaxis and volume exclusion"
 Pre-requisites
 --------------
 
-Requires a C++ compiler which supports C++14, Boost v1.65 and CMake v2.8.
+Requires a C++14 compiler, Boost v1.65, Eigen v3, and CMake v2.8.
 
 For example, these can be installed on Ubuntu 18.04 using apt:
 
 ``` {.bash}
-$ sudo apt install build-essential libboost-all-dev cmake
+$ sudo apt install build-essential libboost-all-dev cmake libeigen3-dev
 ```
 
 Installation
